@@ -16,5 +16,7 @@ Kotlin
 XML Parsing
 Retrofit veya OkHttp
 RecyclerView
+
+
 ![bitki1](https://github.com/sevval4/XMLSearchDetail/assets/79266627/1867282b-0ee7-4ce5-88f0-2e292776bd57)
 ![bitki2](https://github.com/sevval4/XMLSearchDetail/assets/79266627/4db8bc9b-7b81-465a-b9e4-5a712fd39340)
